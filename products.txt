@@ -1,18 +1,18 @@
 {
   "Apfel": {
-    "price": {1.00}
-    "category": {Obst}
+    "price":{1.00
+    "category": Obst
   },
   "Banane": {
-    "price": {1.50}
-    "category": {Gemüse}
+    "price": 1.50
+    "category": Gemüse
   },
   "Kürbis": {
-    "price": {2.00}
-    "category": {Lecker}
+    "price": 2.00
+    "category": Lecker
   },
   "Erdbeere": {
-    "price": {2.50}
-    "category": {Fleisch}
+    "price": 2.50}
+    "category": Fleisch
   }
 }
