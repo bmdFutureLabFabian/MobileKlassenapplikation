@@ -1,17 +1,21 @@
 {
-  "Apfel": {
+  "product1": {
+    "name": "Apfel",
     "price": "1.00",
     "category": "Obst"
   },
-  "Banane": {
+  "product2": {
+    "name": "Banane",
     "price": "1.50",
     "category": "Gemüse"
   },
-  "Kürbis": {
+  "product3": {
+    "name": "Kürbis",
     "price": "2.00",
     "category": "Lecker"
   },
-  "Erdbeere": {
+  "product4": {
+    "name": "Erdbeere",
     "price": "2.50",
     "category": "Fleisch"
   }
