@@ -2,21 +2,25 @@
   "product1": {
     "name": "Birne",
     "price": "1.00",
+    "imgurl": "https://eu-images.contentstack.com/v3/assets/blt085f7ef3068b29af/blt63d61e1cbdc2f58b/63a19da71a5252480c4ee85d/birne.png?disposition=inline&crop=618,463.3033730357322,x0,y0,safe",
     "category": "Obst"
   },
   "product2": {
     "name": "Banane",
     "price": "1.50",
+    "imgurl": "https://res.cloudinary.com/saas-ag/image/upload/w_451,h_451,c_pad,q_auto,f_auto/mpreis/products/manual/manual_500106.jpg",
     "category": "Gemüse"
   },
   "product3": {
     "name": "Kürbis",
     "price": "2.00",
+    "imgurl": "https://media.dehner.de/new_ads_main/halloweenkrbis-gro/8122335_WE_FS_001_HalloweenGross.jpg",
     "category": "Lecker"
   },
   "product4": {
     "name": "Erdbeere",
     "price": "2.50",
+    "imgurl": "https://img.freepik.com/vektoren-premium/eine-ganze-erdbeere-frische-rote-reife-ausgereifte-beere-auf-weissem-hintergrund-realistische-3d-isolierte-vektorillustration_545793-392.jpg",
     "category": "Fleisch"
   }
 }
