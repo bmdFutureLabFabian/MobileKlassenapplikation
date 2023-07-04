@@ -22,5 +22,22 @@
     "price": "2.50",
     "imgurl": "https://img.freepik.com/vektoren-premium/eine-ganze-erdbeere-frische-rote-reife-ausgereifte-beere-auf-weissem-hintergrund-realistische-3d-isolierte-vektorillustration_545793-392.jpg",
     "category": "Fleisch"
+  },
+
+  "category1": {
+    "name": "Obst",
+    "imgurl": "https://www.umweltberatung.at/img/1400/9796.jpg"
+  },
+  "category2": {
+    "name": "Gemüse",
+    "imgurl": "https://img.freepik.com/vektoren-kostenlos/gruppe-von-obst-und-gemuese_1308-124115.jpg?w=2000"
+  },
+  "category3": {
+    "name": "Lecker",
+    "imgurl": "https://c8.alamy.com/compde/2jah29d/lecker-symbol-hungrig-lachelndes-gesicht-mit-mund-und-zunge-emoji-lecker-gesund-lustig-mittagessen-lecker-stimmung-lacheln-avatar-glucklich-gelben-charakter-niedlich-vektor-2jah29d.jpg"
+  },
+  "category4": {
+    "name": "Fleisch",
+    "imgurl": "https://www.landwirtschaft.de/fileadmin/_processed_/6/7/csm_Fleisch_Steak_GettyImages-505207430_1340x754px_1531c7546b.jpg"
   }
 }
