@@ -1,6 +1,6 @@
 {
   "product1": {
-    "name": "Apfel",
+    "name": "Birne",
     "price": "1.00",
     "category": "Obst"
   },
