@@ -23,7 +23,7 @@
       "price": "36.50",
       "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21439-caffe-latte-trinkschokolade-28-1-de.jpg",
       "category": "Trinkschokolade"
-    }
+    },
     "product5": {
       "name": "Heidelbeer + Haselnuss",
       "price": "4.10",
