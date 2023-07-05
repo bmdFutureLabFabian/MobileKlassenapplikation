@@ -1,6 +1,6 @@
 {
   "products": {
-    "product1": {
+     "product1": {
       "name": "Bitter Classic",
       "price": "7.10",
       "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21009-bitter-classic-vegan-trinkschokolade-4.jpg",
@@ -23,13 +23,144 @@
       "price": "36.50",
       "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21439-caffe-latte-trinkschokolade-28-1-de.jpg",
       "category": "Trinkschokolade"
+    },
+    "product5": {
+      "name": "Heidelbeer + Haselnuss",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25854-heidelbeer-haselnuss-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product6": {
+      "name": "Johannisbeer + Macadamia",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25853-johannisbeer-macadamia-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product7": {
+      "name": "Karamell + Erdnuss",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25852-karamell-erdnuss-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product8": {
+      "name": "Erdbeer + Cashew",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25850-erdbeer-cashew-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product9": {
+      "name": "Zitrone + Pekanuss",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25857-zitrone-pekannuss-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product10": {
+      "name": "Regenbogen",
+      "price": "3.60",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mitzi-blue/24177-regenbogen-mitziblue-1-de.jpg",
+      "category": "Mitzi Blue"
+    },
+    "product11": {
+      "name": "Knusper-Karamell",
+      "price": "3.60",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mitzi-blue/24126--knusper-karamell-mitziblue-1-de.jpg",
+      "category": "Mitzi Blue"
+    },
+    "product12": {
+      "name": "Nobelhobel",
+      "price": "3.60",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mitzi-blue/24128-nobel-hobel-mitziblue-1-de.jpg",
+      "category": "Mitzi Blue"
+    },
+    "product13": {
+      "name": "Vielen Dank",
+      "price": "3.60",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mitzi-blue/24139--vielen-dank-mitziblue-1-de.jpg",
+      "category": "Mitzi Blue"
+    },
+    "product14": {
+      "name": "Süße Träume",
+      "price": "1.20",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mini-mitzi/24298-suesse-traeume-minimitzi-1-de.jpg",
+      "category": "Mitzi Blue"
+    },
+    "product15": {
+      "name": "Frieden-Schokolade",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/labooko/20175-frieden-schokolade-labooko-3-de.jpg",
+      "category": "Labooko"
+    },
+    "product16": {
+      "name": "Kaffee",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/labooko/20442-kaffee-labooko--3-de.jpg",
+      "category": "Labooko"
+    },
+    "product17": {
+      "name": "Karamell",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/labooko/20433-karamell-labooko--3-de.jpg",
+      "category": "Labooko"
+    },
+    "product18": {
+      "name": "Erdbeer",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/labooko/20450-erdbeer-labooko--3-de.jpg",
+      "category": "Labooko"
+    },
+    "product19": {
+      "name": "Himbeer-Kokos",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/labooko/20562-himbeer-kokos-vegan-labooko--3-de.jpg",
+      "category": "Labooko"
+    },
+    "product20": {
+      "name": "Glücksstücke",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/labooko/20154--gluecksstuecke-vegan-labooko-3-de.jpg",
+      "category": "Labooko"
+    },
+    "product21": {
+      "name": "Bergmilch 5.0",
+      "price": "2.80",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/zotter-5.0/25876-bergmilch-zotter-5-0-3-de.jpg",
+      "category": "Zotter 5.0"
+    },
+    "product22": {
+      "name": "Weißbunt 5.0",
+      "price": "2.80",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/zotter-5.0/25875-weissbunt-zotter-5-0-3-de.jpg",
+      "category": "Zotter 5.0"
+    },
+    "product23": {
+      "name": "Zartbitter 5.0",
+      "price": "2.80",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/zotter-5.0/25877-zartbitter-zotter-5-0-3-de.jpg",
+      "category": "Zotter 5.0"
     }
-  },
+},
  
+
   "categories": {
     "category1": {
       "name": "Trinkschokolade",
       "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/trinkschokolade-schokodrinks.jpg"
+    },
+    "category2": {
+      "name": "drunter & drüber",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/drunter-drueber.jpg"
+    },
+    "category3": {
+      "name": "Mitzi Blue",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/mitzi-blue-runde-schoko-mit-dekor.jpg"
+    },
+   "category4": {
+      "name": "Labooko",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/labooko-pure-schokoladen-820x557.jpg"
+    },
+   "category5": {
+      "name": "Zotter 5.0",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/zotter-5-0.jpg"
     }
   }
 }
