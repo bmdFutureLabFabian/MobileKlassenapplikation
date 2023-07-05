@@ -1,0 +1,35 @@
+{
+  "products": {
+    "product1": {
+      "name": "Bitter Classic",
+      "price": "7.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21009-bitter-classic-vegan-trinkschokolade-4.jpg",
+      "category": "Trinkschokolade"
+    },
+    "product2": {
+      "name": "Caffe Latte",
+      "price": "7.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21037-caffe-latte-trinkschokolade-4.jpg",
+      "category": "Trinkschokolade"
+    },
+    "product3": {
+      "name": "Honig-Zimt",
+      "price": "7.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21041-honig-zimt-trinkschokolade-4.jpg",
+      "category": "Trinkschokolade"
+    },
+    "product4": {
+      "name": "Caffe Latte - 28 Stk.",
+      "price": "36.50",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21439-caffe-latte-trinkschokolade-28-1-de.jpg",
+      "category": "Trinkschokolade"
+    }
+  },
+ 
+  "categories": {
+    "category1": {
+      "name": "Trinkschokolade",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/trinkschokolade-schokodrinks.jpg"
+    }
+  }
+}
