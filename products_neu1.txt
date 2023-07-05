@@ -31,4 +31,5 @@
       "name": "Trinkschokolade",
       "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/trinkschokolade-schokodrinks.jpg"
     }
+  }
 }
