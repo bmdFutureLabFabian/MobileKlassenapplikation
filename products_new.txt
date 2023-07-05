@@ -1,47 +1,35 @@
 {
   "products": {
-     "product1": {
-      "name": "Birne",
-      "price": "1.00",
-      "imgurl": "https://eu-images.contentstack.com/v3/assets/blt085f7ef3068b29af/blt63d61e1cbdc2f58b/63a19da71a5252480c4ee85d/birne.png?disposition=inline&crop=618,463.3033730357322,x0,y0,safe",
-      "category": "Obst"
+    "product1": {
+      "name": "Bitter Classic",
+      "price": "7.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21009-bitter-classic-vegan-trinkschokolade-4.jpg",
+      "category": "Trinkschokolade"
     },
     "product2": {
-      "name": "Banane",
-      "price": "1.50",
-      "imgurl": "https://res.cloudinary.com/saas-ag/image/upload/w_451,h_451,c_pad,q_auto,f_auto/mpreis/products/manual/manual_500106.jpg",
-      "category": "Gemüse"
+      "name": "Caffe Latte",
+      "price": "7.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21037-caffe-latte-trinkschokolade-4.jpg",
+      "category": "Trinkschokolade"
     },
     "product3": {
-      "name": "Kürbis",
-      "price": "2.00",
-      "imgurl": "https://media.dehner.de/new_ads_main/halloweenkrbis-gro/8122335_WE_FS_001_HalloweenGross.jpg",
-      "category": "Lecker"
+      "name": "Honig-Zimt",
+      "price": "7.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21041-honig-zimt-trinkschokolade-4.jpg",
+      "category": "Trinkschokolade"
     },
     "product4": {
-      "name": "Erdbeere",
-      "price": "2.50",
-      "imgurl": "https://img.freepik.com/vektoren-premium/eine-ganze-erdbeere-frische-rote-reife-ausgereifte-beere-auf-weissem-hintergrund-realistische-3d-isolierte-vektorillustration_545793-392.jpg",
-      "category": "Fleisch"
+      "name": "Caffe Latte - 28 Stk.",
+      "price": "36.50",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21439-caffe-latte-trinkschokolade-28-1-de.jpg",
+      "category": "Trinkschokolade"
     }
   },
  
   "categories": {
     "category1": {
-      "name": "Obst",
-      "imgurl": "https://www.umweltberatung.at/img/1400/9796.jpg"
-    },
-    "category2": {
-      "name": "Gemüse",
-      "imgurl": "https://img.freepik.com/vektoren-kostenlos/gruppe-von-obst-und-gemuese_1308-124115.jpg?w=2000"
-    },
-    "category3": {
-      "name": "Lecker",
-      "imgurl": "https://c8.alamy.com/compde/2jah29d/lecker-symbol-hungrig-lachelndes-gesicht-mit-mund-und-zunge-emoji-lecker-gesund-lustig-mittagessen-lecker-stimmung-lacheln-avatar-glucklich-gelben-charakter-niedlich-vektor-2jah29d.jpg"
-    },
-    "category4": {
-      "name": "Fleisch",
-      "imgurl": "https://www.landwirtschaft.de/fileadmin/_processed_/6/7/csm_Fleisch_Steak_GettyImages-505207430_1340x754px_1531c7546b.jpg"
+      "name": "Trinkschokolade",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/trinkschokolade-schokodrinks.jpg"
     }
   }
 }
