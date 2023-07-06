@@ -1,0 +1,102 @@
+{
+  "products": {
+    "product1": {
+      "name": "Bitter Classic",
+      "price": "7.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21009-bitter-classic-vegan-trinkschokolade-4.jpg",
+      "category": "Trinkschokolade"
+    },
+    "product2": {
+      "name": "Caffe Latte",
+      "price": "7.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21037-caffe-latte-trinkschokolade-4.jpg",
+      "category": "Trinkschokolade"
+    },
+    "product3": {
+      "name": "Honig-Zimt",
+      "price": "7.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21041-honig-zimt-trinkschokolade-4.jpg",
+      "category": "Trinkschokolade"
+    },
+    "product4": {
+      "name": "Caffe Latte - 28 Stk.",
+      "price": "36.50",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/trinkschokolade/21439-caffe-latte-trinkschokolade-28-1-de.jpg",
+      "category": "Trinkschokolade"
+    },
+    "product5": {
+      "name": "Heidelbeer + Haselnuss",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25854-heidelbeer-haselnuss-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product6": {
+      "name": "Johannisbeer + Macadamia",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25853-johannisbeer-macadamia-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product7": {
+      "name": "Karamell + Erdnuss",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25852-karamell-erdnuss-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product8": {
+      "name": "Erdbeer + Cashew",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25850-erdbeer-cashew-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product9": {
+      "name": "Zitrone + Pekanuss",
+      "price": "4.10",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/drunter-drueber/25857-zitrone-pekannuss-drunter-und-drueber-3-de.jpg",
+      "category": "drunter & drüber"
+    },
+    "product10": {
+      "name": "Regenbogen",
+      "price": "3.60",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mitzi-blue/24177-regenbogen-mitziblue-1-de.jpg",
+      "category": "Mitzi Blue"
+    },
+    "product11": {
+      "name": "Knusper-Karamell",
+      "price": "3.60",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mitzi-blue/24126--knusper-karamell-mitziblue-1-de.jpg",
+      "category": "Mitzi Blue"
+    },
+    "product12": {
+      "name": "Nobelhobel",
+      "price": "3.60",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mitzi-blue/24128-nobel-hobel-mitziblue-1-de.jpg",
+      "category": "Mitzi Blue"
+    },
+    "product13": {
+      "name": "Vielen Dank",
+      "price": "3.60",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mitzi-blue/24139--vielen-dank-mitziblue-1-de.jpg",
+      "category": "Mitzi Blue"
+    },
+    "product14": {
+      "name": "Süße Träume",
+      "price": "1.20",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/mini-mitzi/24298-suesse-traeume-minimitzi-1-de.jpg",
+      "category": "Mitzi Blue"
+    }
+  },
+  "categories": {
+    "category1": {
+      "name": "Trinkschokolade",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/trinkschokolade-schokodrinks.jpg"
+    },
+    "category2": {
+      "name": "drunter & drüber",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/drunter-drueber.jpg"
+    },
+    "category3": {
+      "name": "Mitzi Blue",
+      "imgurl": "https://www.zotter.at/fileadmin/media_data/shop/kacheln/mitzi-blue-runde-schoko-mit-dekor.jpg"
+    }
+  }
+}
